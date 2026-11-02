@@ -1,10 +1,14 @@
 {
-  "appName": "Truecaller Gold",
-  "appIcon": "https://play-lh.googleusercontent.com/kVMxXC3fV4cyG56MZunYS2-HYaHh3eM3YTWoDbYaN5-G9xIU2k235hHVQmRrm79tzBSzt0cZ6GsBbzGzGbbMwg=s512",
-  "versionName": "28.12.0",
-  "forceUpdate": true,
-  "description": "Official Release v4.0 is out!\nNew UI elements and themes.\nEnhanced performance and stability.\nNew premium features added.\nBug fixes and improvements.",
-  "buttonText": "DOWNLOAD",
-  "buttonUrl": "https://t.me/VS_Moder",
-  "brandText": "VS_Moder 🇮🇳"
+  "show": true,
+  "force": true,
+  "version_name": "21.2.4",
+  "version_code": 2,
+  "title": "New Update Available! 🚀",
+  "message": "We've added new features and fixed bugs. Update now for the best experience!",
+  "update_url": "https://t.me/VS_Moder",
+  "changelog": [
+    "✅ New UI design",
+    "🐛 Bug fixes",
+    "⚡️ Performance improvements"
+  ]
 }
